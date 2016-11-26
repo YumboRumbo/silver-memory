@@ -1,2 +1,0 @@
-# silver-memory
-Yum Family
