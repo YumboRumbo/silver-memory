@@ -28,7 +28,7 @@ export default function render(styles) {
         style={localStyles.doneButton}
       >
         <Image
-          source={require('../images/done.png')}
+          source={require('../images/done.png')} //eslint-disable-line
         />
       </TouchableHighlight>
     </View>
